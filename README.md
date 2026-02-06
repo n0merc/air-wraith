@@ -37,6 +37,7 @@ Run Air-Wraith:
 
 Bash
 sudo python3 air_wraith.py wlan0mon
+```
 🛠️ Roadmap
 [ ] 5GHz Band Support
 
