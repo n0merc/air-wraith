@@ -1,0 +1,4 @@
+__pycache__/
+*.pcap
+*.pyc
+.DS_Store
